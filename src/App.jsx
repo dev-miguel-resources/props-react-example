@@ -11,6 +11,7 @@ function App() {
       >
       <img src="https://picsum.photos/200/300" alt="picsum" />
       <img src="https://picsum.photos/200/300" alt="picsum-2" />
+      <h1>Welcome to the react world2</h1>
       </Greetings>
     </div>
   );
